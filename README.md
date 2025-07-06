@@ -10,18 +10,6 @@ Although this was my first time working with Next.js, my background in React.js 
 
 The design is closely based on one of the two reference websites provided, as required. I ensured that the layout, typography, spacing, and overall look resembled the chosen reference site with about 65% design accuracy. For added functionality, cleaner styling, and better content tone, I used AI tools like ChatGPT — but I made sure to personally review and refine all output, maintaining alignment with the expected design and quality standards.
 
-## 📱 Mobile Friendly? ✅ YES!
-
-This website is **fully responsive** and mobile-friendly with:
-
-- **Responsive Design**: All pages adapt seamlessly to mobile, tablet, and desktop screens
-- **Mobile-First Approach**: Built with mobile users in mind
-- **Touch-Friendly**: Large buttons and touch targets for easy mobile interaction
-- **Optimized Images**: Responsive images that load quickly on mobile devices
-- **Readable Typography**: Text scales appropriately for different screen sizes
-- **Mobile Navigation**: Collapsible navigation that works perfectly on mobile
-- **Form Optimization**: All forms are mobile-friendly with proper input types
-
 ## 🏠 Pages
 
 ### Home Page (`/`)
@@ -72,28 +60,6 @@ This website is **fully responsive** and mobile-friendly with:
 - **FAQ Submission**: User question input
 - **Real-time Validation**: Immediate feedback on form errors
 - **Success Messages**: Encouraging confirmation messages
-
-### User Experience
-- **Smooth Animations**: Transitions and hover effects
-- **Loading States**: Visual feedback during form submission
-- **Error Handling**: Clear error messages and validation
-- **Accessibility**: Proper ARIA labels and keyboard navigation
-- **Performance**: Optimized images and fast loading
-
-## 🎨 Design Features
-
-### Visual Design
-- **Clean & Professional**: Modern therapy practice aesthetic
-- **Consistent Branding**: Unified color scheme and typography
-- **High Contrast**: Excellent readability across devices
-- **Professional Imagery**: Therapy-themed Unsplash images
-- **Typography**: Elegant font choices with proper hierarchy
-
-### Color Scheme
-- **Primary**: Black and white for professionalism
-- **Accent**: Sky blue for warmth and trust
-- **Background**: Light gradients for visual interest
-- **Text**: High contrast for accessibility
 
 ## 📱 Mobile Responsiveness Details
 
@@ -146,33 +112,7 @@ npm run dev
 ## 🌐 Deployment
 
 The website is ready for deployment on:
-- **Vercel** (recommended for Next.js)
-- **Netlify**
-- **AWS Amplify**
-- Any static hosting service
+- **Vercel**
 
-## 📞 Contact Information
-
-**Grow My Therapy**
-- Phone: (555) 123-4567
-- Email: info@growmytherapy.com
-- Address: 123 Main St, Los Angeles, CA 90001
-
-## 📋 Office Hours
-
-- **Monday**: 1 PM - 5 PM
-- **Tuesday**: 10 AM - 6 PM
-- **Wednesday**: 1 PM - 5 PM
-- **Thursday**: 10 AM - 6 PM
-- **Friday**: 1 PM - 5 PM
-- **Saturday**: Closed
-- **Sunday**: Closed
-
-## 💰 Session Fees
-
-- **Individual Session**: $200 (50 minutes)
-- **Couples Session**: $240 (50 minutes)
-
----
-
-**Built with care for those seeking therapy and support.** 💙
+## Inspiration 
+- **https://www.drjenniferhahm.com/**
